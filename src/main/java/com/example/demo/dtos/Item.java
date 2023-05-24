@@ -11,6 +11,8 @@ public class Item {
   private String name;
   private String description;
 
+  //branch 1. Dimass...
+
   public Item() {}
 
   public Item(String name, String description) {
